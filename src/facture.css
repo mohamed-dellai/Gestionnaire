@@ -1,0 +1,18 @@
+.info-generale{
+    display: flex;
+    gap: 100px;
+    margin-left: 15px; 
+    margin-top: 20px;
+    font-weight: 800;
+    font-size: 18px;
+    letter-spacing: 0.5px;
+}
+.montant1{
+    display: flex;
+    gap: 100px;
+    margin-left: 15px; 
+    margin-top: 20px;
+    font-weight: 800;
+    font-size: 18px;
+    letter-spacing: 0.5px;
+}
